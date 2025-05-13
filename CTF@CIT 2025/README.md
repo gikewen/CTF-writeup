@@ -17,4 +17,5 @@
 
 ## Welcome
 -[Welcome to CTF](https://github.com/gikewen/CTF-writeup/blob/main/CTF%40CIT%202025/Ask_Nicely_Nerd_Emoji/README.md)
+
 -[Discord](https://github.com/gikewen/CTF-writeup/blob/main/CTF%40CIT%202025/Ask_Nicely_Nerd_Emoji/README.md)
